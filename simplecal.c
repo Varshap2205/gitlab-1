@@ -12,6 +12,10 @@ main(){
       }
   
   mul();
+  
+
   div();
     printf("hello");
+ 
+
 }
